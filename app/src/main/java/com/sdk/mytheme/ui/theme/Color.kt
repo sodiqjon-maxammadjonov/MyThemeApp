@@ -1,5 +1,7 @@
 package com.sdk.mytheme.ui.theme
 
+import androidx.compose.material3.darkColorScheme
+import androidx.compose.material3.lightColorScheme
 import androidx.compose.ui.graphics.Color
 
 object AppColors {
@@ -8,6 +10,7 @@ object AppColors {
     val Brand900 = Color(0xFF5A4FCF)
 
     val Gray50 = Color(0xFFF8F9FA)
+
     val Gray100 = Color(0xFFE9ECEF)
     val Gray900 = Color(0xFF212529)
 
